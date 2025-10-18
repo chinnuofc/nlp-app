@@ -1,0 +1,5 @@
+{
+  "name": "Spam vs. Ham SMS Classifier",
+  "description": "A web application that uses AI to classify SMS messages as either 'Spam' (unwanted advertisements) or 'Ham' (legitimate messages). It provides a probability score and maintains a history of classifications.",
+  "requestFramePermissions": []
+}
